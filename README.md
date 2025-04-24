@@ -1,6 +1,6 @@
 # CPIA Insights: Policy and Institutional Analysis of African Countries (2005–2023)
 
-This data analysis project assesses the policy and institutional performance of African countries using the **World Bank’s Country Policy and Institutional Assessment (CPIA)** ratings. The CPIA evaluates the extent to which a country’s policy and institutional framework fosters sustainable economic growth and poverty reduction, as well as its capacity to effectively utilize development assistance.
+This data analysis project assesses the policy and institutional performance of African countries using the **World Bank’s Country Policy and Institutional Assessment (CPIA)** ratings. The CPIA evaluates the extent to which a country’s policy and institutional framework fosters sustainable economic growth and poverty reduction, as well as its capacity to effectively utilise development assistance.
 
 ### Objectives
 
@@ -14,7 +14,7 @@ The analysis explores:
 
 - Trends in CPIA scores from 2005 to 2023.
 
-- Application of K-Means Cluster Analysis to identify countries with similar CPIA cluster ratings.
+- Application of K-Means cluster analysis to identify countries with similar CPIA cluster ratings.
 
 ### Project Structure
 
@@ -26,7 +26,7 @@ This project consists of:
 
 ### Technologies Used
 
-This analysis is based in Python and utilizes the following libraries:
+This analysis is based in Python and utilises the following libraries:
 
 - NumPy and pandas for data manipulation and analysis
 
